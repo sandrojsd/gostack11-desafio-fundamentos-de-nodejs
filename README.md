@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://hotmart.s3.amazonaws.com/product_pictures/6bd576fb-5d9f-4c15-b59d-482ff6a26cbe/GO1.png" alt="Desafio fundamentos Node.js"></a>
-</p>
-
 <h3 align="center">Desafio fundamentos Node.js</h3>
 
 <div align="center">
@@ -99,12 +94,4 @@ yarn dev:server
 
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 - [Typescript](https://www.typescriptlang.org/) - Language for application-scale JavaScript
-
-## ✍️ Authors <a name = "authors"></a>
-
-👤 **Lara Beatriz**
-
-* Twitter: [@LaraBeatrizMS](https://twitter.com/LaraBeatrizMS)
-* Github: [@larabeatrizms](https://github.com/larabeatrizms)
-* LinkedIn: [@larabeatrizms](https://linkedin.com/in/larabeatrizms)
 
